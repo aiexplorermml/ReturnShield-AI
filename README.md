@@ -68,7 +68,3 @@ Return Risk Prediction (%)
 - Explainable AI (SHAP)
 - Real Return Dataset
 
----
-
-##  Author
-
