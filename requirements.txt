@@ -1,0 +1,7 @@
+Machine Learning 
+Data Science
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
